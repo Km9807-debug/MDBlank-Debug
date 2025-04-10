@@ -1,4 +1,4 @@
-# MD Widgets TestFlight Spoofer
+# MD Widgets Debug Spoofer
 
 Tweak that makes MD Widgets application believe it was installed via TestFlight or with a developer certificate, unlocking the hidden Debug menu with Pro features activation.
 
