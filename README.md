@@ -1,2 +1,10 @@
-# MDBlank-Debug
-Makes the MD Widgets application think that you installed it with a certificate or downloaded it from TestFlight. You will have a Debug menu where you can activate Pro
+# MD Widgets TestFlight Spoofer
+
+Tweak that makes MD Widgets application believe it was installed via TestFlight or with a developer certificate, unlocking the hidden Debug menu with Pro features activation.
+
+## Features
+- ✅ Full TestFlight environment emulation
+- 🔓 Unlocks hidden Debug menu
+- ⚡ One-click Pro activation
+- 📱 Works on jailbroken
+
